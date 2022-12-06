@@ -1,0 +1,4 @@
+"E:\Programas\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/Programas/CLion 2021.3.4/bin/ninja/win/ninja.exe" -G Ninja "E:\ITBA\Grado\PI\2022 2Q\lib-vs-vec"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/ITBA/Grado/PI/2022 2Q/lib-vs-vec/cmake-build-debug
