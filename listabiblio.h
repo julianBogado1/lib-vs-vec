@@ -5,7 +5,7 @@
 #ifndef PI_LISTABIBLIO_H
 #define PI_LISTABIBLIO_H
 
-
+typedef unsigned long int largazo;
 
 struct Tnode{
     int head;
